@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+}
+head {
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+  width: 100%;
+}
+img {
+  width: auto;
+}
